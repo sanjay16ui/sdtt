@@ -1,0 +1,6 @@
+{
+  "name": "SDTT Privacy Governance",
+  "description": "Session-level Differential Taint Tracking - Universal AI Safety & Governance Layer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
